@@ -11,3 +11,4 @@ v_TP= soil['TP'].mean() #Ans= 12.05
 
 exist() # exit python
 git add README.md #stade REAME.md for the next snapshot
+git push
